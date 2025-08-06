@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(205, 231, 231);
+}
+
+.title {
+    border: 10px solid black;
+    text-align: center;
+    font-size: 50px;
+    margin: 20px 700px;
+    background-color: gray;
+}
+
+.title-description {
+    border: 5px solid darkgrey;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px 800px;
+    background-color: gray;
+}
+
+ul {
+    border: 5px solid darkgrey;
+    margin: 10px 800px;
+    background-color: hsla(0, 0%, 0%, 0.109);
+    
+}
+
+li {
+    text-align: center;
+    border: 5px solid darkgrey;
+    display: block;
+    margin-left: -40px;
+    font-size: 20px;
+    background-color: hsla(0, 0%, 0%, 0.109);
+}
